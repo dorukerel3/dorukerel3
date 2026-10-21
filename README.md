@@ -37,12 +37,7 @@ Beyond engineering, I compete in chemistry and mathematics olympiads (URFODU Che
 
 ---
 
-## English & Languages
 
-- **Cambridge English Certificate** &nbsp;[[view certificate]](https://dorukerel.com/files/cambridge-ingilizce-sertifikasi.pdf)
-- **TOEFL Junior Standard**, ETS 2024 &nbsp;[[score report]](https://dorukerel.com/files/TOEFL-Junior-Score-Report-2024.pdf) · [[certificate]](https://dorukerel.com/files/TOEFL-Junior-Certificate-2024.pdf)
-
----
 
 ## Links
 
