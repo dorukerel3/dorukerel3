@@ -1,7 +1,7 @@
 # Hi, I'm Doruk Erel
 
 **Embedded Systems Developer · Hardware & Network Administrator**
-Ankara, Turkey · [dorukerel.com](https://dorukerel.com) · dorukerel39.1.1@gmail.com
+Ankara, Turkey · [dorukerel.com](https://www.dorukerel.com) · dorukerel39.1.1@gmail.com · dorukerel39.1.1@dorukerel.com
 
 I am a science high school student in Ankara who builds projects from start to finish, owning the entire hardware and software stack on my own: from custom PCB design and 3D printing through to VPN infrastructure and cybersecurity prototypes. My work spans hardware design, embedded firmware, and network administration, and I would rather understand and command every layer of a system than lean on prebuilt solutions.
 
@@ -48,6 +48,5 @@ Beyond engineering, I compete in chemistry and mathematics olympiads (URFODU Che
 
 - Portfolio & CV: [dorukerel.com](https://dorukerel.com)
 - GitHub: [@dorukerel3](https://github.com/dorukerel3)
-- PCBWay: [pcbway.com](https://pcbway.com)
 
 <sub>I also play piano and guitar, produce music in Cubase, and compete in chemistry and mathematics olympiads.</sub>
